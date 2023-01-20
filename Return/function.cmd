@@ -1,0 +1,1 @@
+set "MyVariable=%~1 world %DATE%"
